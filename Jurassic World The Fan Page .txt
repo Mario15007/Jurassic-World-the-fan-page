@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Jurassic World: The Fan Page    </title>
+</head>
+<body> bgcolor="AFEEEE"
+text="BLUE"
+link="RED"
+vlink="BLACK"
+alink="yellow">
+
+
+
+
+
+
+
+
+
+
+</html>
